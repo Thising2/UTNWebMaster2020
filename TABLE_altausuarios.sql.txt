@@ -1,0 +1,12 @@
+--
+-- Estructura de tabla para la tabla `usuarios registrados`
+--
+
+CREATE TABLE `usuarios` (
+  `id` int(11) NOT NULL,
+  `nombre` varchar(30) NOT NULL,
+  `apellido` varchar(30) NOT NULL,
+  `email` varchar(40) NOT NULL,
+  `usuario` varchar(20) NOT NULL,
+  `password` varchar(15) NOT NULL,
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;

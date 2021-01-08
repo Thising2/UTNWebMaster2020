@@ -1,0 +1,7 @@
+    /* Para servidor local de 000WEBHOST... */
+/*
+    $servidor="localhost";
+    $user="id15440808_root";
+    $password="Polopolo.8152947";
+    $bd="id15440808_utnwebmaster2020";
+*/
